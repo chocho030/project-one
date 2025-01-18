@@ -1,0 +1,18 @@
+.title {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.main {
+  display: flex;
+  width: 100vw;
+}
+.card {
+  padding: 2rem;
+  width: 28rem;
+  height: 16em;
+}
+.card-img {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
